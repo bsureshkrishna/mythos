@@ -1,0 +1,416 @@
+{
+  "B:a12a": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "A12A",
+    "label": "Eclipses: a predator animal",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=a12a."
+  },
+  "B:a12b": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "A12B",
+    "label": "Eclipses: a frog or toad",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=a12b."
+  },
+  "B:a18": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "A18",
+    "label": "The sky boats",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=a18."
+  },
+  "B:a22": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "A22",
+    "label": "To the sky from a bonfire",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=a22."
+  },
+  "B:a32a": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "A32A",
+    "label": "The Moon rabbit",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=a32a."
+  },
+  "B:a32d": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "A32D",
+    "label": "Man in the Moon",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=a32d."
+  },
+  "B:a38": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "A38",
+    "label": "The Sun caught in snare",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=a38."
+  },
+  "B:a46": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "A46",
+    "label": "The Sun and Moon from eyes of a being",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=a46."
+  },
+  "B:b77a": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "B77A",
+    "label": "Giant pushed the sky up",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=b77a."
+  },
+  "B:b79": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "B79",
+    "label": "Cosmic egg",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=b79."
+  },
+  "B:c18": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "C18",
+    "label": "Dance for the hidden Sun",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=c18."
+  },
+  "B:c19": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "C19",
+    "label": "Acquisition of the sun",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=c19."
+  },
+  "B:c2": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "C2",
+    "label": "Deluge and conflagration combined",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=c2."
+  },
+  "B:c36": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "C36",
+    "label": "The final battle",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=c36."
+  },
+  "B:c5a": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "C5A",
+    "label": "Bird-scouts",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=c5a."
+  },
+  "B:c6d": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "C6D",
+    "label": "The earth-diver",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=c6d."
+  },
+  "B:d4a": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "D4A",
+    "label": "Theft of fire",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=d4a."
+  },
+  "B:d4l": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "D4L",
+    "label": "Fire from the sky",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=d4l."
+  },
+  "B:e1a": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "E1A",
+    "label": "First people of unstable materials",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=e1a."
+  },
+  "B:e2": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "E2",
+    "label": "People made for a test",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=e2."
+  },
+  "B:e32": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "E32",
+    "label": "People born from trees",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=e32."
+  },
+  "B:e8": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "E8",
+    "label": "People of wood",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=e8."
+  },
+  "B:e9i": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "E9I",
+    "label": "Swan-wife",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=e9i."
+  },
+  "B:g23a": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "G23A",
+    "label": "Alive being turns into plants",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=g23a."
+  },
+  "B:g6": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "G6",
+    "label": "Primeval tree",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=g6."
+  },
+  "B:h10": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "H10",
+    "label": "Stone sinks, stick floats",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=h10."
+  },
+  "B:h12": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "H12",
+    "label": "Orpheus: visit to the land of the dead",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=h12."
+  },
+  "B:h13": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "H13",
+    "label": "Dead person returns and revives",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=h13."
+  },
+  "B:h24c": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "H24C",
+    "label": "Death in container",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=h24c."
+  },
+  "B:h39": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "H39",
+    "label": "The spilled poison",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=h39."
+  },
+  "B:h52": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "H52",
+    "label": "The search of immortality",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=h52."
+  },
+  "B:h56": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "H56",
+    "label": "The prohibited fruit (origin of death)",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=h56."
+  },
+  "B:h6d": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "H6D",
+    "label": "Stolen immortality",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=h6d."
+  },
+  "B:i100": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "I100",
+    "label": "The Pleiades are girls",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=i100."
+  },
+  "B:i12": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "I12",
+    "label": "The world axis",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=i12."
+  },
+  "B:i26": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "I26",
+    "label": "Dangers on the way of souls",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=i26."
+  },
+  "B:i31": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "I31",
+    "label": "Master and mistress of the dead",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=i31."
+  },
+  "B:i39": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "I39",
+    "label": "Rainbow road or bridge",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=i39."
+  },
+  "B:i99": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "I99",
+    "label": "The Pleiades are boys or men",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=i99."
+  },
+  "B:k38f": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "K38F",
+    "label": "The dragon-slayer",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=k38f."
+  },
+  "B:k41": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "K41",
+    "label": "Thunder against a serpent",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=k41."
+  },
+  "B:l110": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "L110",
+    "label": "The devourer",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=l110."
+  },
+  "B:l15d": {
+    "catalogue": "Berezkin-Duvakin",
+    "code": "L15D",
+    "label": "The external soul",
+    "url": "https://www.ruthenia.ru/folklore/berezkin/eng.html#:~:text=l15d."
+  },
+  "T:A1006": {
+    "catalogue": "Thompson",
+    "code": "A1006",
+    "label": "Renewal of world after world calamity",
+    "url": "https://www.ruthenia.ru/folklore/thompson/a.htm#:~:text=A1006.%20A1006."
+  },
+  "T:A1010": {
+    "catalogue": "Thompson",
+    "code": "A1010",
+    "label": "Deluge",
+    "url": "https://www.ruthenia.ru/folklore/thompson/a.htm#:~:text=A1010.%20A1010."
+  },
+  "T:A1101": {
+    "catalogue": "Thompson",
+    "code": "A1101",
+    "label": "The four ages of the world",
+    "url": "https://www.ruthenia.ru/folklore/thompson/a.htm#:~:text=A1101.%20A1101."
+  },
+  "T:A1150": {
+    "catalogue": "Thompson",
+    "code": "A1150",
+    "label": "Determination of seasons",
+    "url": "https://www.ruthenia.ru/folklore/thompson/a.htm#:~:text=A1150.%20A1150."
+  },
+  "T:A116": {
+    "catalogue": "Thompson",
+    "code": "A116",
+    "label": "Twin gods",
+    "url": "https://www.ruthenia.ru/folklore/thompson/a.htm#:~:text=A116.%20A116."
+  },
+  "T:A1241": {
+    "catalogue": "Thompson",
+    "code": "A1241",
+    "label": "Man made from clay (earth)",
+    "url": "https://www.ruthenia.ru/folklore/thompson/a.htm#:~:text=A1241.%20A1241."
+  },
+  "T:A142": {
+    "catalogue": "Thompson",
+    "code": "A142",
+    "label": "Smith of the gods",
+    "url": "https://www.ruthenia.ru/folklore/thompson/a.htm#:~:text=A142.%20A142."
+  },
+  "T:A151.1": {
+    "catalogue": "Thompson",
+    "code": "A151.1",
+    "label": "Home of gods on high mountain",
+    "url": "https://www.ruthenia.ru/folklore/thompson/a.htm#:~:text=A151.1.%20A151.1."
+  },
+  "T:A154.1": {
+    "catalogue": "Thompson",
+    "code": "A154.1",
+    "label": "Magic drink gives immortality to gods",
+    "url": "https://www.ruthenia.ru/folklore/thompson/a.htm#:~:text=A154.1.%20A154.1."
+  },
+  "T:A162": {
+    "catalogue": "Thompson",
+    "code": "A162",
+    "label": "Conflicts of the gods",
+    "url": "https://www.ruthenia.ru/folklore/thompson/a.htm#:~:text=A162.%20A162."
+  },
+  "T:A187.1": {
+    "catalogue": "Thompson",
+    "code": "A187.1",
+    "label": "God as judge of men",
+    "url": "https://www.ruthenia.ru/folklore/thompson/a.htm#:~:text=A187.1.%20A187.1."
+  },
+  "T:A310": {
+    "catalogue": "Thompson",
+    "code": "A310",
+    "label": "God of the world of the dead",
+    "url": "https://www.ruthenia.ru/folklore/thompson/a.htm#:~:text=A310.%20A310."
+  },
+  "T:A463.1": {
+    "catalogue": "Thompson",
+    "code": "A463.1",
+    "label": "The Fates",
+    "url": "https://www.ruthenia.ru/folklore/thompson/a.htm#:~:text=A463.1.%20A463.1."
+  },
+  "T:A463.1.1": {
+    "catalogue": "Thompson",
+    "code": "A463.1.1",
+    "label": "The Fates weave",
+    "url": "https://www.ruthenia.ru/folklore/thompson/a.htm#:~:text=A463.1.1.%20A463.1.1."
+  },
+  "T:A521": {
+    "catalogue": "Thompson",
+    "code": "A521",
+    "label": "Culture hero as dupe or trickster",
+    "url": "https://www.ruthenia.ru/folklore/thompson/a.htm#:~:text=A521.%20A521."
+  },
+  "T:A527.2": {
+    "catalogue": "Thompson",
+    "code": "A527.2",
+    "label": "Culture hero has knowledge-giving member (thumb, tooth)",
+    "url": "https://www.ruthenia.ru/folklore/thompson/a.htm#:~:text=A527.2.%20A527.2."
+  },
+  "T:A600": {
+    "catalogue": "Thompson",
+    "code": "A600",
+    "label": "Creation of the universe",
+    "url": "https://www.ruthenia.ru/folklore/thompson/a.htm#:~:text=A600.%20A600."
+  },
+  "T:A625": {
+    "catalogue": "Thompson",
+    "code": "A625",
+    "label": "World parents: sky-father and earth-mother as parents of the universe",
+    "url": "https://www.ruthenia.ru/folklore/thompson/a.htm#:~:text=A625.%20A625."
+  },
+  "T:A641": {
+    "catalogue": "Thompson",
+    "code": "A641",
+    "label": "Cosmic egg",
+    "url": "https://www.ruthenia.ru/folklore/thompson/a.htm#:~:text=A641.%20A641."
+  },
+  "T:A642": {
+    "catalogue": "Thompson",
+    "code": "A642",
+    "label": "Universe from body of slain giant",
+    "url": "https://www.ruthenia.ru/folklore/thompson/a.htm#:~:text=A642.%20A642."
+  },
+  "T:A692": {
+    "catalogue": "Thompson",
+    "code": "A692",
+    "label": "Islands of the blest",
+    "url": "https://www.ruthenia.ru/folklore/thompson/a.htm#:~:text=A692.%20A692."
+  },
+  "T:A722": {
+    "catalogue": "Thompson",
+    "code": "A722",
+    "label": "Sun‘s night journey",
+    "url": "https://www.ruthenia.ru/folklore/thompson/a.htm#:~:text=A722.%20A722."
+  },
+  "T:A791": {
+    "catalogue": "Thompson",
+    "code": "A791",
+    "label": "Origin of the Rainbow",
+    "url": "https://www.ruthenia.ru/folklore/thompson/a.htm#:~:text=A791.%20A791."
+  },
+  "T:A875.1.1": {
+    "catalogue": "Thompson",
+    "code": "A875.1.1",
+    "label": "Mountain at center of earth",
+    "url": "https://www.ruthenia.ru/folklore/thompson/a.htm#:~:text=A875.1.1.%20A875.1.1."
+  },
+  "T:D1652.1": {
+    "catalogue": "Thompson",
+    "code": "D1652.1",
+    "label": "Inexhaustible food",
+    "url": "https://www.ruthenia.ru/folklore/thompson/d.htm#:~:text=D1652.1.%20D1652.1."
+  },
+  "T:S331": {
+    "catalogue": "Thompson",
+    "code": "S331",
+    "label": "Child set afloat in a vessel",
+    "url": "https://www.ruthenia.ru/folklore/thompson/s.htm#:~:text=S331.%20S331."
+  }
+}

@@ -1,0 +1,6 @@
+__pycache__/
+tools/screenshots/
+tools/link-report.json
+tools/*-reference.html
+tools/*-reference.txt
+after.png

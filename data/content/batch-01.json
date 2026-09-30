@@ -1,0 +1,748 @@
+{
+  "concepts": [
+    {
+      "id": "primordial-void",
+      "versions": [
+        {
+          "culture": "indian",
+          "people": "Vedic",
+          "title": "Before Being and Nonbeing",
+          "teaser": "A creation hymn ends with a question even heaven may not answer.",
+          "text": "The poet begins before familiar opposites: neither being nor nonbeing, neither death nor immortality, neither night nor day. Darkness lies wrapped in darkness. Something called the One breathes without breath, and desire arises as an early movement of mind.\n\nThen the hymn turns from description to questions. Who can say how creation happened? The gods arrive after the world's beginning, so they cannot simply be its witnesses. Perhaps the one who watches from the highest heaven knows. The final line leaves open the possibility that even he does not.",
+          "names": [
+            "Nāsadīya Sūkta",
+            "The One"
+          ],
+          "sources": [
+            "Rigveda 10.129"
+          ]
+        },
+        {
+          "culture": "norse",
+          "title": "The Yawning Gap",
+          "teaser": "Heat and frost meet where no sea or earth yet exists.",
+          "text": "Before the earth takes shape, Ginnungagap opens between the cold of Niflheim and the heat of Muspell. In Snorri's account, icy rivers spread into the gap. Warm air reaches the frost, and the melting drops become alive. From them comes Ymir, ancestor of the frost giants.\n\nThe cow Auðhumla appears too. She feeds Ymir with milk and licks salty ice until another being, Búri, emerges. The beginning is neither empty for long nor orderly: life grows where contrary forces meet, well before the gods build a world from Ymir's body.",
+          "names": [
+            "Ginnungagap",
+            "Ymir",
+            "Auðhumla",
+            "Búri"
+          ],
+          "sources": [
+            "Gylfaginning 4–6"
+          ],
+          "caveat": "Snorri wrote in Christian Iceland in the thirteenth century, drawing on earlier poems and traditions."
+        },
+        {
+          "culture": "greek",
+          "title": "First Came Chaos",
+          "teaser": "A gap precedes the family tree of the gods.",
+          "text": "Hesiod begins with Chaos. Gaia, the broad earth, follows, along with Tartarus and Eros. From Chaos come Erebus and Night; from Night and Erebus come Aether and Day. The first story is a genealogy of places, powers and conditions of life.\n\nGaia produces starry Heaven to cover her, then mountains and the sea. A world becomes intelligible as one generation gives rise to another. Here Chaos is usually understood as a gap or chasm, not the modern idea of everything being jumbled together. The poem does not describe a creator making the universe from nothing.",
+          "names": [
+            "Chaos",
+            "Gaia",
+            "Eros",
+            "Nyx"
+          ],
+          "sources": [
+            "Hesiod, Theogony 116–132"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cosmic-egg",
+      "versions": [
+        {
+          "culture": "indian",
+          "people": "Upaniṣadic",
+          "title": "The Egg That Became a World",
+          "teaser": "Two halves of a shell become earth and heaven.",
+          "text": "The Chāndogya Upaniṣad tells of a beginning in which what is becomes an egg. After a year it breaks open. Its two halves are silver and gold: the silver becomes earth, the gold heaven. Membranes become mountains and clouds, veins become rivers, and the fluid becomes the ocean.\n\nFrom the egg comes the sun. At its appearance a great sound rises, together with beings and their desires. The account turns the familiar structure of an egg into the structure of the world, then connects that beginning with the daily arrival of sunlight.",
+          "names": [
+            "Chāndogya Upaniṣad",
+            "Āditya"
+          ],
+          "sources": [
+            "Chāndogya Upaniṣad 3.19"
+          ]
+        },
+        {
+          "culture": "finnic",
+          "people": "Finnish and Karelian",
+          "title": "Eggs on Ilmatar's Knee",
+          "teaser": "A nesting bird's broken eggs become the sky and its lights.",
+          "text": "Ilmatar, the daughter of the air, floats upon the waters. A bird searches for somewhere to nest and settles on her raised knee. It lays eggs there, but the heat of brooding becomes unbearable. Ilmatar moves, and the eggs fall into the sea.\n\nTheir pieces become a world: the lower shell forms earth, the upper shell heaven, and the bright parts become sun, moon and stars. Ilmatar continues shaping shores and depths. The accident of a disturbed nest becomes the beginning of a landscape in which other stories can happen.",
+          "names": [
+            "Ilmatar"
+          ],
+          "sources": [
+            "Kalevala, Rune 1"
+          ],
+          "caveat": "The Kalevala is Elias Lönnrot's nineteenth-century literary arrangement of Finnish and Karelian oral poetry."
+        },
+        {
+          "culture": "greek",
+          "title": "Night's Winged Egg",
+          "teaser": "A chorus of birds claims a spectacular cosmic ancestry.",
+          "text": "In Aristophanes' comedy The Birds, the birds explain that their ancestry is older than the gods'. In the beginning are Chaos, Night, Erebus and Tartarus. Night lays an egg in the darkness, and golden-winged Eros hatches from it.\n\nEros joins with winged Chaos, and the race of birds appears before the familiar divine world is assembled. The boast is part of the play's joke: birds use a grand creation story to argue that humans ought to honour them. A cosmic image is doing comic and political work on the Athenian stage.",
+          "names": [
+            "Night",
+            "Eros",
+            "Chaos",
+            "Aristophanes"
+          ],
+          "sources": [
+            "Aristophanes, Birds 693–702"
+          ],
+          "caveat": "This is a comic literary cosmogony drawing on religious imagery, not a single authoritative Greek creation account."
+        }
+      ]
+    },
+    {
+      "id": "earth-diver",
+      "versions": [
+        {
+          "culture": "north-american",
+          "people": "Cherokee",
+          "title": "The Water Beetle's Mud",
+          "teaser": "The smallest explorer brings back the beginning of solid ground.",
+          "text": "The animals live above a world covered by water, with no dry place below. The little Water Beetle goes exploring. It skims over the surface, finds nowhere to rest, then dives to the bottom and brings up soft mud.\n\nThe mud spreads until it becomes the earth, but it is still too wet for the animals. Birds fly out to investigate. When the Great Buzzard grows tired, its wings strike the soft ground, making the mountains and valleys of Cherokee country. A tiny diver begins the work; others give the new land its shape.",
+          "names": [
+            "Water Beetle",
+            "Great Buzzard"
+          ],
+          "sources": [
+            "James Mooney, Myths of the Cherokee (1900), 'How the World Was Made'"
+          ]
+        },
+        {
+          "culture": "north-american",
+          "people": "Haudenosaunee (Tuscarora record)",
+          "title": "Earth on the Turtle",
+          "teaser": "Animals prepare a place for a woman falling from the sky.",
+          "text": "In David Cusick's account, a woman falls from the upper world towards the waters below. Creatures gather to help her. A turtle offers its back, while animals seek earth beneath the water. The small amount they obtain is spread upon the turtle.\n\nThe earth grows, making a place for the woman to live. Her descendants will continue the work of shaping the world. Creation here depends on the assistance of other living beings: the woman does not reach an empty stage, but a world whose animals already act together.",
+          "names": [
+            "Sky Woman",
+            "Turtle",
+            "David Cusick"
+          ],
+          "sources": [
+            "David Cusick, Sketches of Ancient History of the Six Nations (1827)"
+          ],
+          "caveat": "Haudenosaunee nations and tellers preserve distinct versions; this follows the outline recorded by the Tuscarora author David Cusick."
+        },
+        {
+          "culture": "indian",
+          "people": "Purāṇic",
+          "title": "The Boar Lifts the Earth",
+          "teaser": "Viṣṇu dives into the waters and raises the earth on his tusks.",
+          "text": "At the start of a new creation, the earth lies beneath the waters. Viṣṇu takes the form of a mighty boar and enters the depths to recover it. The submerged earth addresses him, and he raises it upon his tusks.\n\nWhen he rises, water streams from his body. Sages praise the vast animal, whose form is also described through the language of sacrifice. He sets the earth in place and prepares it for living beings. This diver brings up the earth itself, rather than the handful of mud found in many animal-diver stories.",
+          "names": [
+            "Viṣṇu",
+            "Varāha"
+          ],
+          "sources": [
+            "Viṣṇu Purāṇa 1.4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sky-earth-separation",
+      "versions": [
+        {
+          "culture": "polynesian",
+          "people": "Māori",
+          "title": "Tāne Makes Room for Light",
+          "teaser": "The children of earth and sky push their parents apart.",
+          "text": "Ranginui and Papatūānuku hold each other so closely that their children live in darkness between them. The children debate what to do. Tū proposes killing their parents, but Tāne urges separation: let the sky remain above and the earth below.\n\nSeveral brothers try and fail. Tāne braces his head against earth and pushes upward with his legs, forcing sky away. Light enters the world. The separation brings room for life, but also grief. Sky and earth remain apart, and their continuing love is remembered in rain and mist.",
+          "names": [
+            "Ranginui",
+            "Papatūānuku",
+            "Tāne",
+            "Tū"
+          ],
+          "sources": [
+            "George Grey, Polynesian Mythology (1855), 'The Children of Heaven and Earth'"
+          ],
+          "caveat": "Grey's publication drew heavily on Māori writers, including Wiremu Maihi Te Rangikāheke; other Māori tellings differ."
+        },
+        {
+          "culture": "egyptian",
+          "title": "Shu Holds Up Nut",
+          "teaser": "Air keeps the arched sky above the earth.",
+          "text": "Nut, the sky, arches over Geb, the earth. Between them stands Shu, the power of air, holding her aloft. Egyptian images make the separation visible: a reclining earth below, a star-covered sky above, and uplifted arms sustaining the space of life.\n\nIn the Book of the Heavenly Cow, the aged sun god withdraws from humanity by ascending upon Nut in the form of a cow. Shu and supporting powers help bear the sky. Separation is therefore both a cosmic arrangement and a story about the sun god's growing distance from people.",
+          "names": [
+            "Nut",
+            "Geb",
+            "Shu",
+            "Ra"
+          ],
+          "sources": [
+            "Book of the Heavenly Cow"
+          ],
+          "caveat": "Egyptian sources offer several overlapping creation traditions; this page combines the familiar divine grouping with the Heavenly Cow narrative."
+        },
+        {
+          "culture": "greek",
+          "title": "Kronos Breaks Heaven's Grip",
+          "teaser": "A violent family revolt opens the way for another divine generation.",
+          "text": "Gaia gives birth to the children of Ouranos, starry Heaven. He hides them away within her, and she groans under the burden. She makes a sickle and asks her sons to act. Only Kronos agrees.\n\nWhen Ouranos comes to lie with Gaia, Kronos reaches from hiding and cuts him with the sickle. The attack ends the father's immediate power and begins another stage in the gods' genealogy. It also produces new beings from blood and foam. The opening of the cosmic family comes through violence, and Kronos will later fear his own children.",
+          "names": [
+            "Gaia",
+            "Ouranos",
+            "Kronos"
+          ],
+          "sources": [
+            "Hesiod, Theogony 154–210"
+          ],
+          "caveat": "A related succession story: Hesiod does not describe a gentle lifting of the sky like the Māori or Egyptian images."
+        }
+      ]
+    },
+    {
+      "id": "body-of-the-world",
+      "versions": [
+        {
+          "culture": "norse",
+          "title": "Ymir Becomes the World",
+          "teaser": "The gods turn a giant's body into a place to live.",
+          "text": "Odin and his brothers kill Ymir and carry his body into Ginnungagap. From his flesh they make the earth, from his blood the sea, and from his bones the mountains. Stones come from his broken teeth and bones.\n\nHis skull becomes the sky, supported at its corners by four dwarfs. His brains become clouds, and his brows provide a protective enclosure for the human world, Midgard. The landscape is not separate from the first living being: people inhabit a transformed body, bounded and arranged by the new gods.",
+          "names": [
+            "Ymir",
+            "Odin",
+            "Midgard"
+          ],
+          "sources": [
+            "Gylfaginning 8",
+            "Grímnismál 40–41"
+          ]
+        },
+        {
+          "culture": "indian",
+          "people": "Vedic",
+          "title": "The Sacrifice of Puruṣa",
+          "teaser": "A cosmic person's offering produces worlds, creatures and social orders.",
+          "text": "Puruṣa is vast beyond ordinary measurement: only part of him becomes the visible world. The gods perform a sacrifice with him as the offering. From it come animals, hymns, ritual forms and the ordered cosmos.\n\nHis mind becomes the moon, his eye the sun, his breath the wind. His head is heaven, his feet earth, and his middle the atmosphere. The hymn also relates social groups to parts of his body. It presents the world as a connected whole produced through sacrifice, not simply as a giant killed in combat.",
+          "names": [
+            "Puruṣa"
+          ],
+          "sources": [
+            "Rigveda 10.90"
+          ],
+          "caveat": "The hymn's social classifications are part of its historical religious vision, not a statement about people's inherent worth."
+        },
+        {
+          "culture": "mesopotamian",
+          "people": "Babylonian",
+          "title": "Marduk Divides Tiamat",
+          "teaser": "A defeated sea power becomes the architecture of the cosmos.",
+          "text": "The gods choose Marduk to confront Tiamat and her forces. He traps her with a net, drives winds into her open mouth and kills her. Victory gives him the authority to arrange the world.\n\nHe divides her body and uses one portion to establish the heavens, setting guards to keep the waters in their place. He orders stars, celestial stations and the calendar. Later he establishes the gods' dwellings and Babylon's importance. The making of the cosmos is also an argument for Marduk's supremacy and the city that honours him.",
+          "names": [
+            "Marduk",
+            "Tiamat",
+            "Babylon"
+          ],
+          "sources": [
+            "Enūma Eliš, Tablets IV–VI"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "humans-from-clay",
+      "versions": [
+        {
+          "culture": "levantine",
+          "people": "Hebrew Bible",
+          "title": "Dust and the Breath of Life",
+          "teaser": "A figure from the ground becomes alive through divine breath.",
+          "text": "In Genesis' garden account, God forms the human from the dust of the ground and breathes life into his nostrils. The shaped material becomes a living being. God plants a garden and places the human there to cultivate and keep it.\n\nThe relationship with the earth remains central. The Hebrew words for human and ground, adam and adamah, echo one another. Later the human is told that he will return to the dust from which he came. Formation, work and mortality all belong to the same earthly bond.",
+          "names": [
+            "Adam",
+            "Eden",
+            "adamah"
+          ],
+          "sources": [
+            "Genesis 2–3"
+          ]
+        },
+        {
+          "culture": "greek",
+          "title": "Prometheus Shapes People",
+          "teaser": "Earth and water become humans in a brief account of the Titan's gifts.",
+          "text": "Apollodorus gives Prometheus a simple act of craftsmanship: he moulds human beings out of earth and water. The account quickly moves to the next gift, fire, which he takes from Zeus and brings to humanity hidden in a fennel stalk.\n\nZeus orders him fastened to a mountain, where an eagle eats his liver as it continually grows back. Heracles eventually kills the bird. The little notice about making people stands beside the longer tale of helping them live. It is one Greek account of human origins, not a creation story found in every Greek source.",
+          "names": [
+            "Prometheus",
+            "Zeus",
+            "Heracles"
+          ],
+          "sources": [
+            "Apollodorus, Library 1.7.1"
+          ]
+        },
+        {
+          "culture": "mesopotamian",
+          "people": "Sumerian",
+          "title": "Namma Kneads the Clay",
+          "teaser": "Human workers are made to relieve the labour of the gods.",
+          "text": "The gods complain about the work they must perform. Namma, the primeval mother, brings their need to Enki. He proposes a new being and directs that clay from above the subterranean waters be kneaded into shape. Birth goddesses assist.\n\nHumans will take over the labour that burdens the gods. The composition later turns to a contest between Enki and Ninmah over the destinies of differently formed people. Its creation scene is practical as well as sacred: humanity enters a world of work, nourishment and obligations between those who make and those who are made.",
+          "names": [
+            "Namma",
+            "Enki",
+            "Ninmah"
+          ],
+          "sources": [
+            "Enki and Ninmah"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "humans-from-trees",
+      "versions": [
+        {
+          "culture": "norse",
+          "title": "Ask and Embla",
+          "teaser": "Two pieces of wood receive the gifts that make them human.",
+          "text": "In Snorri's account, Odin and his brothers walk along the seashore and find two trees or pieces of wood. They shape them into people. One god gives breath and life, another understanding and movement, and another form, speech, hearing and sight.\n\nThey name the man Ask and the woman Embla, clothe them and give them Midgard to inhabit. The poem Völuspá also tells of Ask and Embla receiving divine gifts, though it names a different trio of gods. The first humans begin as vulnerable forms that become capable of a shared life.",
+          "names": [
+            "Ask",
+            "Embla",
+            "Odin",
+            "Hœnir",
+            "Lóðurr"
+          ],
+          "sources": [
+            "Gylfaginning 9",
+            "Völuspá 17–18"
+          ],
+          "caveat": "Ask means ash; Embla's name is debated and should not confidently be translated as elm."
+        },
+        {
+          "culture": "persian",
+          "people": "Zoroastrian (Pahlavi)",
+          "title": "The First Couple Grow Together",
+          "teaser": "A single plant becomes two human beings.",
+          "text": "After the death of the first man, Gayōmard, his seed is preserved in the earth. In time a plant grows from it. Its two stems are so closely joined that the future human pair cannot yet be distinguished.\n\nThe plant becomes Mashya and Mashyana. They stand together, receive a human condition and begin the difficult history of mortal life. Their origin makes ancestry a kind of growth from the ground. The Bundahishn follows their later actions as well, including their struggle to understand who created them and their susceptibility to the destructive spirit's deception.",
+          "names": [
+            "Gayōmard",
+            "Mashya",
+            "Mashyana"
+          ],
+          "sources": [
+            "Bundahishn, chapter 15"
+          ]
+        },
+        {
+          "culture": "maya",
+          "people": "K'iche'",
+          "title": "People Made of Maize",
+          "teaser": "The food that sustains people becomes their very flesh.",
+          "text": "After earlier attempts at humanity fail, the makers seek the substance for lasting people. Animals reveal a place rich in yellow and white maize. The grain is ground, and from it the first successful human bodies are formed.\n\nThese people can speak, understand and honour their makers. At first their sight reaches too far: they can perceive almost everything. The gods cloud their vision, setting limits appropriate to human life. Maize therefore gives more than nourishment. In the Popol Vuh it is the material of humanity itself, joined with understanding but also with necessary limits.",
+          "names": [
+            "Ixpiyacoc",
+            "Ixmucane",
+            "maize"
+          ],
+          "sources": [
+            "Popol Vuh"
+          ],
+          "caveat": "A comparison through plant material: the account concerns grain, not descent from a living tree."
+        }
+      ]
+    },
+    {
+      "id": "failed-creations",
+      "versions": [
+        {
+          "culture": "maya",
+          "people": "K'iche'",
+          "title": "Mud, Wood, Then Maize",
+          "teaser": "The makers try again when their creatures cannot remember them.",
+          "text": "The makers want beings who can speak and remember their creators. Animals have voices but cannot perform that task. A figure made of mud is too fragile: it cannot hold together or act as intended.\n\nWooden people fare better. They walk, talk and multiply, but lack understanding and gratitude. Their own animals and household objects turn against them when destruction comes. Only later do people made from maize fulfil the makers' purpose. The successive attempts are not simply experiments in strength: the crucial question is whether a creature can enter a responsible relationship with those who sustain it.",
+          "names": [
+            "Heart of Sky",
+            "maize",
+            "wooden people"
+          ],
+          "sources": [
+            "Popol Vuh"
+          ]
+        },
+        {
+          "culture": "mesopotamian",
+          "people": "Sumerian",
+          "title": "Enki and Ninmah's Contest",
+          "teaser": "Two makers test how a person can find a place in the world.",
+          "text": "After the creation of humanity, Enki and Ninmah feast and argue. Ninmah forms people with different bodily conditions and challenges Enki to determine their destinies. For each, he finds a role or means of support.\n\nThen Enki makes a being whose condition Ninmah cannot remedy, and the contest turns bitter. The fragmentary composition is difficult in places, but it is more than a catalogue of mistakes. It asks what the creators can provide for the people they shape. The abilities of the makers, rather than the worth of a human life, are being tested.",
+          "names": [
+            "Enki",
+            "Ninmah"
+          ],
+          "sources": [
+            "Enki and Ninmah"
+          ],
+          "caveat": "A neighbouring motif about a contest in creation; it should not be read as declaring disabled people failed humans."
+        }
+      ]
+    },
+    {
+      "id": "world-tree",
+      "versions": [
+        {
+          "culture": "norse",
+          "title": "Yggdrasil and Its Wells",
+          "teaser": "A great ash links realms while creatures gnaw and tend it.",
+          "text": "Yggdrasil spreads its branches over the world. Its roots reach different regions, with wells beneath them. The gods gather at one of those wells, where the Norns attend to the tree.\n\nIts life is full of strain. Animals feed upon it; a dragon gnaws below; a squirrel carries hostile words between the heights and depths. The tree holds together a living cosmos rather than a perfectly still diagram. At Ragnarök it trembles with the crisis of the worlds it connects. What happens to it matters far beyond a single grove.",
+          "names": [
+            "Yggdrasil",
+            "Urðr",
+            "Níðhöggr",
+            "Ratatoskr"
+          ],
+          "sources": [
+            "Gylfaginning 15–16",
+            "Grímnismál 29–35"
+          ]
+        },
+        {
+          "culture": "indian",
+          "people": "Upaniṣadic",
+          "title": "The Tree with Roots Above",
+          "teaser": "The world hangs from a tree whose root is beyond ordinary sight.",
+          "text": "The Kaṭha Upaniṣad describes an eternal aśvattha tree with its root above and its branches below. All worlds rest in it, and nothing passes beyond it. The image appears in a teaching about the self, death and the reality underlying change.\n\nThe Bhagavad Gītā develops a related image of an inverted tree whose branches spread through the world of action. There the seeker must cut through attachment to it. The two uses should be distinguished: a cosmic image can express both the world's dependence on an ultimate ground and the need to find freedom from entanglement.",
+          "names": [
+            "aśvattha",
+            "Naciketas",
+            "Yama"
+          ],
+          "sources": [
+            "Kaṭha Upaniṣad 2.3.1",
+            "Bhagavad Gītā 15.1–4"
+          ]
+        },
+        {
+          "culture": "finnic",
+          "people": "Finnish and Karelian",
+          "title": "The Oak That Hides the Sky",
+          "teaser": "A tiny figure fells a tree that has grown too large for the world.",
+          "text": "A great oak grows so high and wide that its crown hides the sun and moon. Clouds cannot move as they should, and the land suffers in its shadow. Väinämöinen needs someone capable of bringing it down.\n\nA tiny man rises from the sea, dressed in copper. He becomes a giant and strikes the oak until it falls. Light and the movement of clouds return. Pieces of the extraordinary tree retain power in later uses. Here the cosmic tree is a problem to solve: its growth blocks the order that living things require.",
+          "names": [
+            "Väinämöinen",
+            "great oak"
+          ],
+          "sources": [
+            "Kalevala, Rune 2"
+          ],
+          "caveat": "A sky-blocking primeval tree, rather than a permanent axis like Yggdrasil."
+        }
+      ]
+    },
+    {
+      "id": "cosmic-mountain",
+      "versions": [
+        {
+          "culture": "indian",
+          "people": "Purāṇic",
+          "title": "Meru at the Centre",
+          "teaser": "A golden mountain anchors an elaborate geography of worlds.",
+          "text": "The Viṣṇu Purāṇa places Meru at the centre of Jambūdvīpa. The mountain is golden and enormous, with divine dwellings above and regions arranged around it. Rivers and surrounding mountains help make the cosmos a structured, inhabitable whole.\n\nThis is not merely a tall peak on an ordinary map. Meru gives directions and levels their meaning within sacred geography. Other Hindu, Buddhist and Jain accounts describe their own versions of the central mountain. The shared name does not make all those descriptions identical, or turn their measurements into a single physical survey.",
+          "names": [
+            "Meru",
+            "Jambūdvīpa",
+            "Brahmā"
+          ],
+          "sources": [
+            "Viṣṇu Purāṇa 2.2"
+          ]
+        },
+        {
+          "culture": "greek",
+          "title": "The Gods on Olympus",
+          "teaser": "An earthly mountain becomes the gods' enduring, cloudless home.",
+          "text": "Homer's gods gather on Olympus, where Zeus holds authority and divine quarrels resemble a dangerous royal household. The mountain is a place of councils, feasts and departures into human affairs.\n\nThe Odyssey describes the gods' enduring home as untouched by rain, snow or rough winds, with clear brightness above it. Yet Olympus also has a recognisable name in the Greek landscape. Poetry lets a real mountain open into a place beyond ordinary weather and mortality. It is a divine residence, rather than the centre of a geometrically arranged universe like Meru.",
+          "names": [
+            "Olympus",
+            "Zeus"
+          ],
+          "sources": [
+            "Homer, Iliad, Book 1",
+            "Homer, Odyssey 6.41–46"
+          ],
+          "caveat": "Olympus is included as a mountain of the gods; its cosmic role differs from Meru's."
+        },
+        {
+          "culture": "persian",
+          "people": "Zoroastrian (Avestan)",
+          "title": "Mithra Above High Harā",
+          "teaser": "A lofty mountain stands at the threshold of the sun's journey.",
+          "text": "The hymn to Mithra describes him reaching the heights of Harā before the rising sun. From that elevated station he surveys the inhabited lands. He watches agreements, protects those faithful to them and confronts those who break them.\n\nThe mountain is part of a sacred geography extending beyond ordinary borders. Later Zoroastrian cosmology develops the name and its relation to the courses of heavenly bodies. In the hymn, the vivid centre is the watcher's immense reach: he sees the many lands below from a height touched by the coming light.",
+          "names": [
+            "Mithra",
+            "Harā Berezaitī"
+          ],
+          "sources": [
+            "Yasht 10 (Mihr Yasht), sections 13–15"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sun-and-moon-origin",
+      "versions": [
+        {
+          "culture": "japanese",
+          "title": "Lights from Izanagi's Eyes",
+          "teaser": "Purification after the land of death gives birth to celestial powers.",
+          "text": "Izanagi escapes from Yomi, the land where his dead wife Izanami remains. Back in the living world, he washes away the pollution of that journey. As he removes his clothing and bathes, new deities come into being.\n\nFrom washing his left eye comes Amaterasu, the sun goddess; from his right, Tsukuyomi, the moon deity. From his nose comes Susanoo. Izanagi assigns them their realms. The lights of the sky emerge from a personal passage through death and purification, and the family relationships born here will shape the stories that follow.",
+          "names": [
+            "Izanagi",
+            "Amaterasu",
+            "Tsukuyomi",
+            "Susanoo"
+          ],
+          "sources": [
+            "Kojiki, Book 1"
+          ]
+        },
+        {
+          "culture": "aztec",
+          "people": "Nahua / Mexica",
+          "title": "The Fire at Teotihuacan",
+          "teaser": "Two volunteers enter the flames, but one celestial light must be dimmed.",
+          "text": "The gods gather at Teotihuacan to bring light to a dark world. Rich Tecuciztecatl and humble Nanahuatzin prepare themselves. At the crucial moment, Tecuciztecatl hesitates before the fire. Nanahuatzin leaps in, and the other follows.\n\nTwo brilliant lights rise. To prevent them from shining equally, a god throws a rabbit at the second, dimming it into the moon. But the new sun does not move until the gods sacrifice themselves. Daylight therefore begins through courage and costly action, and its continuing movement is bound to the idea of sustaining the cosmos.",
+          "names": [
+            "Nanahuatzin",
+            "Tecuciztecatl",
+            "Teotihuacan"
+          ],
+          "sources": [
+            "Sahagún, Florentine Codex, Book 7"
+          ]
+        },
+        {
+          "culture": "finnic",
+          "people": "Finnish and Karelian",
+          "title": "Light from Broken Eggs",
+          "teaser": "The bright parts of a bird's eggs become the world's lights.",
+          "text": "A bird nests on Ilmatar's knee as she floats in the primeval waters. When she shifts, its eggs fall and break. The pieces are not lost: each becomes part of the emerging world.\n\nThe yolk supplies the sun's brightness and the white the moon's light; other fragments make stars and clouds. Sky and earth also take shape from the shells. The account treats the lights as parts of a larger act of transformation, not as rival children or rulers. What looked like a ruined nest becomes the substance of the cosmos.",
+          "names": [
+            "Ilmatar"
+          ],
+          "sources": [
+            "Kalevala, Rune 1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hidden-sun",
+      "versions": [
+        {
+          "culture": "japanese",
+          "title": "Amaterasu Behind the Rock",
+          "teaser": "Laughter and a mirror draw the sun goddess out of hiding.",
+          "text": "After Susanoo's destructive acts, Amaterasu withdraws into a rock cave and closes the entrance. Darkness covers the world. The assembled deities prepare a mirror, jewels and a plan to tempt her outside.\n\nAme-no-Uzume performs a startling dance, and the gods burst into laughter. Amaterasu wonders why they rejoice without her. They tell her of another splendid deity, then show her the mirror. As she leans out to look, a strong god draws her from the cave and a rope marks the boundary behind her. Light returns through a carefully staged act of curiosity.",
+          "names": [
+            "Amaterasu",
+            "Susanoo",
+            "Ame-no-Uzume",
+            "Ame-no-Tajikarao"
+          ],
+          "sources": [
+            "Kojiki, Book 1"
+          ]
+        },
+        {
+          "culture": "finnic",
+          "people": "Finnish and Karelian",
+          "title": "Louhi Locks Away the Lights",
+          "teaser": "A smith's threat finally releases the sun and moon.",
+          "text": "Louhi takes the sun and moon and shuts them inside a mountain. Darkness stops the ordinary work of the world. Ilmarinen forges replacement lights, but his golden moon and silver sun cannot shine.\n\nVäinämöinen discovers where the real lights are hidden, yet force alone does not open their prison. Ilmarinen prepares tools, and Louhi, spying in bird form, is told that he is making bonds for her. Frightened, she releases the lights. The story distinguishes a marvellous imitation from the living light everyone needs: craftsmanship matters, but the world cannot run on substitutes.",
+          "names": [
+            "Louhi",
+            "Ilmarinen",
+            "Väinämöinen"
+          ],
+          "sources": [
+            "Kalevala, Runes 47–49"
+          ]
+        },
+        {
+          "culture": "north-american",
+          "people": "Tlingit",
+          "title": "Raven Steals the Daylight",
+          "teaser": "A treasured child turns back into Raven and releases the hidden light.",
+          "text": "The world is dark, and a wealthy man keeps the celestial lights in his house. Raven wants them. He changes into a tiny thing that the man's daughter swallows with her water, then is born as her child.\n\nAs the beloved grandchild, he cries for the precious containers until he is allowed to play with them. The apparent baby becomes Raven again and releases the light into the world. A private treasure becomes something everyone can share. Contemporary Tlingit artist Preston Singletary tells the story through glass sculptures, carrying an inherited narrative into another medium.",
+          "names": [
+            "Raven",
+            "Preston Singletary"
+          ],
+          "sources": [
+            "Preston Singletary, Raven and the Box of Daylight (Tlingit narrative; Smithsonian exhibition and interview)"
+          ],
+          "caveat": "Tlingit tellers preserve different versions; this follows the publicly presented Box of Daylight narrative."
+        }
+      ]
+    },
+    {
+      "id": "world-ages",
+      "versions": [
+        {
+          "culture": "greek",
+          "title": "Gold, Iron and the Heroes",
+          "teaser": "Hesiod places a heroic generation inside a troubled sequence of human races.",
+          "text": "Hesiod describes a golden race living easily under Kronos, followed by silver and bronze peoples whose lives end badly. Then he interrupts the sequence of metals with the race of heroes, those who fought at Thebes and Troy. Some receive a blessed life apart.\n\nHis own age is iron, marked by labour, conflict and failing justice. The poem looks ahead to still worse conditions if respect and right conduct disappear. This is not simply a list of four metals: the heroic generation matters, and the account makes moral criticism of the present through stories about the past.",
+          "names": [
+            "Hesiod",
+            "Kronos",
+            "golden race",
+            "iron race"
+          ],
+          "sources": [
+            "Hesiod, Works and Days 109–201"
+          ]
+        },
+        {
+          "culture": "indian",
+          "people": "Purāṇic",
+          "title": "The Four Yugas",
+          "teaser": "The strength of the moral order diminishes through a recurring cycle.",
+          "text": "The four ages are Kṛta, Tretā, Dvāpara and Kali. In Purāṇic accounts, the first is an age of greater virtue and long life. Across the sequence, human conduct and the stability of the world decline. Kali, the last age, is filled with quarrels and failures of rightful order.\n\nBut the sequence is part of a larger cycle, not a history that simply stops at its lowest point. The Viṣṇu Purāṇa describes renewal after Kali and the return of a better age. Vast cosmic measures give familiar human worries a repeating temporal frame.",
+          "names": [
+            "Kṛta",
+            "Tretā",
+            "Dvāpara",
+            "Kali",
+            "Kalki"
+          ],
+          "sources": [
+            "Viṣṇu Purāṇa 1.3 and 4.24"
+          ]
+        },
+        {
+          "culture": "aztec",
+          "people": "Nahua / Mexica",
+          "title": "The Worlds of the Suns",
+          "teaser": "Earlier humanities perish under suns unlike our own.",
+          "text": "Nahua accounts describe earlier worlds, each identified with a sun and a manner of ending. Jaguars, wind, fire and water destroy or transform their inhabitants. Some former people become animals, so the present world retains traces of lost creations.\n\nThe current sun belongs to another precarious age. Its continuation depends on a cosmic order that can fail, and its eventual end is associated with movement or earthquake. The details and sequence vary across sources. These are not successive human technologies, but whole conditions of existence that have already proved unable to last forever.",
+          "names": [
+            "Five Suns",
+            "Nahui Ollin",
+            "Tezcatlipoca",
+            "Quetzalcoatl"
+          ],
+          "sources": [
+            "Legend of the Suns (Leyenda de los Soles, 1558)",
+            "Sahagún, Florentine Codex, Book 7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "child-set-adrift",
+      "versions": [
+        {
+          "culture": "mesopotamian",
+          "people": "Akkadian royal legend",
+          "title": "Sargon in the Reed Basket",
+          "teaser": "A gardener rescues a hidden child who will become king.",
+          "text": "Sargon's birth legend speaks in the voice of the future king. His mother, a priestess, gives birth in secret. She places him in a reed basket sealed with bitumen and commits him to the river.\n\nThe river carries him to Aqqi, a drawer of water, who raises him as a son and makes him a gardener. Ishtar comes to favour him, and the abandoned child eventually gains kingship. The story turns a concealed and vulnerable beginning into evidence of extraordinary destiny. Its surviving written witnesses are much later than the historical Sargon's reign.",
+          "names": [
+            "Sargon",
+            "Aqqi",
+            "Ishtar"
+          ],
+          "sources": [
+            "Sargon Birth Legend"
+          ]
+        },
+        {
+          "culture": "levantine",
+          "people": "Hebrew Bible",
+          "title": "Moses Among the Reeds",
+          "teaser": "A mother, a sister and Pharaoh's daughter keep a threatened child alive.",
+          "text": "Pharaoh's command endangers Hebrew baby boys. Moses' mother hides him for three months, then prepares a papyrus basket, coats it against water and places it among the reeds by the Nile. His sister stays nearby to watch.\n\nPharaoh's daughter finds the crying child and takes pity on him. The sister offers to find a Hebrew nurse and brings the baby's own mother. Later he grows up as the princess's son. The rescue depends on several women acting within a dangerous political order. The basket is placed carefully in the reeds, not simply abandoned to an open sea.",
+          "names": [
+            "Moses",
+            "Pharaoh's daughter",
+            "Nile"
+          ],
+          "sources": [
+            "Exodus 1–2"
+          ]
+        },
+        {
+          "culture": "indian",
+          "people": "Epic Sanskrit",
+          "title": "Karna's Armour and Earrings",
+          "teaser": "A child born with divine signs grows up in another household.",
+          "text": "Kuntī tests a mantra that can summon a deity, and the sun god Sūrya comes to her. She bears Karna, already protected by armour and earrings. Afraid of the consequences of an unmarried birth, she places him in a sealed container and entrusts him to the river.\n\nAdhiratha and Rādhā find the child and raise him with love. His origins remain hidden as he grows into a great warrior. The secret will later place him between the family of his birth and the loyalties he has chosen. Survival begins a lasting conflict over identity, status and obligation.",
+          "names": [
+            "Karna",
+            "Kuntī",
+            "Sūrya",
+            "Adhiratha",
+            "Rādhā"
+          ],
+          "sources": [
+            "Mahābhārata, Vana Parva (Karna's birth)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dragon-slayer",
+      "versions": [
+        {
+          "culture": "greek",
+          "title": "Perseus and the Sea Monster",
+          "teaser": "A chained princess waits for the creature ravaging her country.",
+          "text": "Cassiopeia boasts that her beauty surpasses that of the Nereids. The offended sea powers bring disaster upon the kingdom of Cepheus, and an oracle demands that his daughter Andromeda be offered to a sea monster. She is fastened to a rock.\n\nPerseus arrives, sees her and agrees to save her if he may marry her. He kills the monster and frees her, though a further conflict over the marriage follows. The creature is a sea beast, or kētos, rather than a standard winged dragon. The rescue joins a hero's travelling adventures to a kingdom's dangerous divine quarrel.",
+          "names": [
+            "Perseus",
+            "Andromeda",
+            "Cassiopeia",
+            "Cepheus"
+          ],
+          "sources": [
+            "Apollodorus, Library 2.4.3"
+          ]
+        },
+        {
+          "culture": "norse",
+          "title": "Sigurd Beneath Fáfnir",
+          "teaser": "A pit beneath the dragon's path puts the sword within reach.",
+          "text": "Fáfnir has taken the shape of a dragon to guard a hoard won through violence. Regin urges Sigurd to kill him. Sigurd digs a pit in the dragon's path and strikes upward into its body as it passes over him.\n\nThe dying Fáfnir warns that the gold will bring trouble. Later, while roasting the dragon's heart, Sigurd tastes its blood and understands the speech of birds. They reveal that Regin plans to betray him. Killing the monster therefore opens another danger: the hoard's history continues, and the hero needs knowledge as well as a successful sword thrust.",
+          "names": [
+            "Sigurd",
+            "Fáfnir",
+            "Regin",
+            "Gram"
+          ],
+          "sources": [
+            "Völsunga saga, chapters 18–19",
+            "Fáfnismál"
+          ]
+        },
+        {
+          "culture": "japanese",
+          "title": "Eight Heads and Eight Vats",
+          "teaser": "Susanoo defeats the serpent by preparing a drink for every head.",
+          "text": "Susanoo meets an elderly couple whose daughters have been eaten, one each year, by Yamata no Orochi. Only Kushinada-hime remains. The monster has eight heads and eight tails, and its immense body stretches across the landscape.\n\nSusanoo has strong sake prepared and placed in eight vats behind a barrier. The serpent drinks with every head and falls asleep. Susanoo cuts it apart. Inside a tail he discovers a remarkable sword, which he sends to Amaterasu. Saving the daughter also brings a divine treasure into the story of Japan's ruling regalia.",
+          "names": [
+            "Susanoo",
+            "Yamata no Orochi",
+            "Kushinada-hime",
+            "Kusanagi"
+          ],
+          "sources": [
+            "Kojiki, Book 1"
+          ]
+        }
+      ]
+    }
+  ]
+}

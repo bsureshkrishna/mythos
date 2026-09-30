@@ -1,0 +1,607 @@
+{
+  "title": "Flood and fifty more",
+  "description": "A first notebook of 51 big ideas in world mythology.",
+  "concepts": [
+    {
+      "id": "great-flood",
+      "versions": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        7,
+        8,
+        9
+      ],
+      "summary": "The waters rise, the familiar world disappears, and a few survivors begin again. Compare the boat and warning in Mesopotamia, India and Genesis with China's labour of draining the land and the Andes' mountain refuge. These are different stories of catastrophe and renewal; resemblance alone does not establish a common origin.",
+      "motifs": [
+        "T:A1010",
+        "B:c5a"
+      ]
+    },
+    {
+      "id": "primordial-void",
+      "summary": "What was there before anything existed? A gap, darkness, water, or something that words cannot quite name. These accounts begin before the familiar divisions of sky and earth, life and death. Their beginnings differ: Hesiod's gap is not the same thing as the Vedic poet's unanswered question.",
+      "motifs": [
+        "T:A600"
+      ]
+    },
+    {
+      "id": "cosmic-egg",
+      "summary": "The whole universe fits inside an egg. When it opens, shell becomes sky and earth, or a first being steps into the light. The image makes creation feel like birth. An epic, a philosophical teaching and a comic play put it to quite different uses.",
+      "motifs": [
+        "T:A641",
+        "B:b79"
+      ]
+    },
+    {
+      "id": "earth-diver",
+      "summary": "Before there is dry ground, someone must bring a little earth up from beneath the water. A small animal may succeed where stronger swimmers fail; elsewhere a god dives. Compare who takes the risk, who helps, and how a handful of substance becomes a habitable world.",
+      "motifs": [
+        "B:c6d"
+      ]
+    },
+    {
+      "id": "sky-earth-separation",
+      "summary": "Sky and earth begin pressed together, leaving their children no room to live. Separating them creates space, daylight and sometimes lasting sorrow. The act may be a son's strength, a god's daily work, or a violent family revolt. The separation matters as much as the original creation.",
+      "motifs": [
+        "B:b77a",
+        "T:A625"
+      ]
+    },
+    {
+      "id": "body-of-the-world",
+      "summary": "The world is made from a body: flesh becomes ground, bones become mountains, and blood becomes water. Creation and sacrifice meet in this striking image. The beings involved are not interchangeable: a giant, a cosmic person and a defeated sea power belong to different accounts of how order begins.",
+      "motifs": [
+        "T:A642"
+      ]
+    },
+    {
+      "id": "humans-from-clay",
+      "summary": "Human beings are shaped from the same earth they will return to. A maker kneads, moulds or breathes life into the material. Some stories explain our closeness to the soil; others explain why humans work for the gods. Compare what animates the body and what its maker expects of it.",
+      "motifs": [
+        "T:A1241"
+      ]
+    },
+    {
+      "id": "humans-from-trees",
+      "summary": "Wood, grain and growing plants can become human flesh. A pair of trees receives life; a plant divides into the first couple; maize becomes the substance of people. These stories connect ancestry with the living landscape. They are related comparisons, rather than one identical tale of a tree ancestor.",
+      "motifs": [
+        "B:e8",
+        "B:e32"
+      ]
+    },
+    {
+      "id": "failed-creations",
+      "summary": "Making people is not always a single, effortless act. Creators test materials, revise their work, or argue over what a human life can be. The Maya account tells of discarded attempts; the Sumerian story is a contest about finding a place for different bodies. Those differences matter.",
+      "motifs": [
+        "B:e1a",
+        "B:e2"
+      ]
+    },
+    {
+      "id": "world-tree",
+      "summary": "A great tree connects realms, shelters life or gives visible shape to the cosmos. Its roots and branches can lead in opposite directions, and its health can matter to the whole world. Not every sacred tree is a world tree: these pages compare the particular work each tree does.",
+      "motifs": [
+        "B:i12",
+        "B:g6"
+      ]
+    },
+    {
+      "id": "cosmic-mountain",
+      "summary": "A mountain gives the universe a centre or a home for its gods. It may stand within a vast cosmic geography, or be a recognisable peak transformed by poetry. Compare the routes around it, who may climb it, and the distance it puts between divine and human life.",
+      "motifs": [
+        "T:A151.1",
+        "T:A875.1.1"
+      ]
+    },
+    {
+      "id": "sun-and-moon-origin",
+      "summary": "How did the world's lights first appear? They may emerge from a god's body, from broken eggs, or from a terrible act of courage. Their unequal brightness can become part of the story. The birth of the lights often establishes the rhythm by which everyone else will live.",
+      "motifs": [
+        "B:a22",
+        "B:a46"
+      ]
+    },
+    {
+      "id": "hidden-sun",
+      "summary": "The light disappears into a cave or mountain, or remains locked in someone's possession. To restore it, the world needs persuasion, craft or a thief. The point of comparison is the recovery of withheld daylight; a sun goddess's retreat is not the same event as stolen celestial objects.",
+      "motifs": [
+        "B:c18",
+        "B:c19"
+      ]
+    },
+    {
+      "id": "world-ages",
+      "summary": "Our world is one age among others. Earlier peoples may have lived better, suffered different disasters, or inhabited worlds with different rules. Some sequences decline; some repeat; some await another transformation. These schemes organise moral and cosmic time, rather than describe a single shared chronology.",
+      "motifs": [
+        "T:A1101"
+      ]
+    },
+    {
+      "id": "pleiades",
+      "versions": [
+        1,
+        2,
+        4,
+        5
+      ],
+      "summary": "A small cluster of stars becomes sisters, children, nurses or a sign that a new season is coming. The number seen and the story told vary. Compare the narratives with the cluster's practical place in planting, sailing and calendars: the same sky can hold very different memories.",
+      "motifs": [
+        "B:i99",
+        "B:i100"
+      ]
+    },
+    {
+      "id": "rainbow",
+      "versions": [
+        2,
+        3,
+        5,
+        6
+      ],
+      "summary": "A bow, a road between worlds, a messenger, or an enormous serpent: the rainbow invites many readings. Its brief appearance joins earth and sky without making them the same place. Each version gives the colours a different role, from a divine promise to a route that will eventually break.",
+      "motifs": [
+        "T:A791",
+        "B:i39"
+      ]
+    },
+    {
+      "id": "origin-of-death",
+      "versions": [
+        0,
+        1,
+        4,
+        7
+      ],
+      "summary": "Why do people die, when the moon returns and plants grow again? Stories answer with a first death, a broken relationship, a choice or a rule that cannot be undone. Some explain mortality itself; others describe the road the dead must follow. Keep that distinction in view while comparing them.",
+      "motifs": [
+        "B:h10",
+        "B:h56"
+      ]
+    },
+    {
+      "id": "lost-immortality",
+      "versions": [
+        0,
+        1,
+        3,
+        6
+      ],
+      "summary": "Everlasting life comes close enough to touch, then slips away. A warning is misunderstood, a snake takes the prize, a wish omits eternal youth, or laughter spoils a rescue. The loss may explain the human condition, but the stories differ over whether immortality was ever truly available to us.",
+      "motifs": [
+        "B:h6d",
+        "B:h52"
+      ]
+    },
+    {
+      "id": "theft-of-fire",
+      "versions": [
+        0,
+        1,
+        4,
+        5
+      ],
+      "summary": "Fire belongs elsewhere before it belongs to humans. A daring figure brings it down, carries an ember across water, or learns where it hides in wood. Some tellings celebrate theft; others describe a gift. Watch the small practical details: a hollow stem or a woven bowl can change the world.",
+      "motifs": [
+        "B:d4a",
+        "B:d4l"
+      ]
+    },
+    {
+      "id": "slain-food-deity",
+      "versions": [
+        1,
+        2,
+        6,
+        7
+      ],
+      "summary": "Food grows where a powerful being dies. Grain, tubers or useful plants rise from a body, turning loss into nourishment. The beings are sometimes humanlike and sometimes animals; the death may be murder or an instructed sacrifice. The link between eating and remembering is stronger than any single plot.",
+      "motifs": [
+        "B:g23a"
+      ]
+    },
+    {
+      "id": "evil-let-loose",
+      "versions": [
+        0,
+        3,
+        4,
+        7
+      ],
+      "summary": "Disease, poison or suffering escapes into a world that cannot put it back. A jar is opened, a cosmic barrier breaks, or a useful undertaking releases something dangerous. These stories ask how harm became part of ordinary life, without agreeing that a single act or person explains all evil.",
+      "motifs": [
+        "B:h24c",
+        "B:h39"
+      ]
+    },
+    {
+      "id": "storm-god-serpent",
+      "versions": [
+        0,
+        1,
+        4,
+        6
+      ],
+      "summary": "A thunder wielder confronts a serpent or monstrous opponent. Water, kingship or the survival of the gods may depend on the result. This is a famous comparative pattern, but its details vary: the enemy can block rivers, threaten divine rule, or meet the god only at the world's end.",
+      "motifs": [
+        "B:k41"
+      ]
+    },
+    {
+      "id": "divine-twins",
+      "versions": [
+        1,
+        2,
+        4,
+        5
+      ],
+      "summary": "Two extraordinary siblings rescue others, remake the world or confront death. Sometimes they cooperate; sometimes their differences are the point. Horsemen, ballplayers and rival makers are not a single pair in disguise. Reading their particular adventures shows both the strength and the limits of the twin comparison.",
+      "motifs": [
+        "T:A116"
+      ]
+    },
+    {
+      "id": "trickster",
+      "versions": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "summary": "The clever troublemaker crosses boundaries that everyone else respects. Theft, disguise and appetite can bring embarrassment or gifts that benefit the world. Trickster is a comparative role, not a claim that Hermes, Loki, Māui and Anansi have the same character. Each story lets cunning do different work.",
+      "motifs": [
+        "T:A521",
+        "B:a38"
+      ]
+    },
+    {
+      "id": "war-in-heaven",
+      "versions": [
+        0,
+        1,
+        3,
+        5
+      ],
+      "summary": "The gods do not always begin in harmony. Older rulers lose power, rival groups fight, and a new order emerges through battle or settlement. These wars can explain who commands the cosmos and what that authority costs. The victors' stories often preserve uncomfortable traces of the powers they replace.",
+      "motifs": [
+        "T:A162"
+      ]
+    },
+    {
+      "id": "drink-of-immortality",
+      "versions": [
+        1,
+        2,
+        5,
+        6
+      ],
+      "summary": "A drink, food or treasured fruit keeps death at a distance. Getting it may require ritual, theft, cooperation with enemies, or rescuing its keeper. Soma, haoma, amṛta and Iðunn's apples have distinct histories and meanings. The useful comparison is how access to extraordinary life is controlled.",
+      "motifs": [
+        "T:A154.1"
+      ]
+    },
+    {
+      "id": "divine-smith",
+      "versions": [
+        3,
+        4,
+        7,
+        8
+      ],
+      "summary": "Someone must make the gods' weapons, tools and wonders. The divine craftsperson transforms stubborn material into things no ordinary hand could produce. Smithing may also involve danger, exclusion or sacred obligations. A forged shield, a miraculous mill and a cleared road reveal different visions of skilled work.",
+      "motifs": [
+        "T:A142"
+      ]
+    },
+    {
+      "id": "sun-chariot",
+      "versions": [
+        0,
+        2,
+        3,
+        6
+      ],
+      "summary": "The sun has a journey to complete each day. Boats, horses and chariots carry it; enemies may wait along the route. Some stories also trace its return through darkness. The vehicle changes, but the recurring question is how daylight keeps its appointment with the world.",
+      "motifs": [
+        "B:a18",
+        "T:A722"
+      ]
+    },
+    {
+      "id": "eclipse",
+      "versions": [
+        1,
+        3,
+        4,
+        7
+      ],
+      "summary": "Something threatens the light: a severed head, a wolf, a frog or beings waiting for the sky to fail. An eclipse may call for noise, vigilance or ritual. These comparisons include both temporary obscuring and the final swallowing of the sun, events the sources do not always treat alike.",
+      "motifs": [
+        "B:a12a",
+        "B:a12b"
+      ]
+    },
+    {
+      "id": "moon-dweller",
+      "versions": [
+        0,
+        3,
+        4,
+        7
+      ],
+      "summary": "The moon's markings become a hare, a person with a burden, stolen children or a distant home. Some figures are rewarded, others punished or taken away. Look at the moon again after each telling: the visible surface stays the same while the lives imagined upon it change.",
+      "motifs": [
+        "B:a32a",
+        "B:a32d"
+      ]
+    },
+    {
+      "id": "wisdom-at-a-price",
+      "versions": [
+        2,
+        3,
+        6,
+        7
+      ],
+      "summary": "Knowledge is won through danger, bodily loss, a difficult bargain or an accident that cannot be reversed. These stories do not make all wisdom forbidden. They ask who may possess it, what must be given for it, and whether the person who learns can remain as they were.",
+      "motifs": [
+        "T:A527.2"
+      ]
+    },
+    {
+      "id": "fate-weavers",
+      "versions": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "summary": "A life can be spun, measured, allotted or announced at birth. Textile imagery makes destiny tangible, while some traditions give the same task to speakers of prophecy. Compare what is fixed and what remains uncertain: knowing the prediction does not necessarily reveal how it will come true.",
+      "motifs": [
+        "T:A463.1",
+        "T:A463.1.1"
+      ]
+    },
+    {
+      "id": "origin-of-seasons",
+      "versions": [
+        0,
+        1,
+        4,
+        5
+      ],
+      "summary": "Warmth and cold, growth and barrenness, absence and return: the year invites stories of relationships that change. A daughter comes home, a figure divides time below, or a hero releases summer. These are local accounts of seasonal life; a half-year in the underworld need not mean winter everywhere.",
+      "motifs": [
+        "T:A1150"
+      ]
+    },
+    {
+      "id": "lord-of-the-dead",
+      "versions": [
+        1,
+        3,
+        4,
+        7
+      ],
+      "summary": "The dead enter a realm with its own ruler and rules. Its sovereign may judge, guard, host or simply refuse release. These figures are not all devils, and their realms are not all punishments. The stories reveal different ways of imagining authority beyond the last human boundary.",
+      "motifs": [
+        "T:A310",
+        "B:i31"
+      ]
+    },
+    {
+      "id": "guide-of-souls",
+      "versions": [
+        1,
+        3,
+        4,
+        7
+      ],
+      "summary": "The road after death may require someone who knows the way. A god, a revealing maiden or an animal companion helps the traveller cross. Guidance and judgement are different roles, though one journey may contain both. What the dead need can reflect how the living ought to treat others.",
+      "motifs": [
+        "B:i26"
+      ]
+    },
+    {
+      "id": "river-of-the-dead",
+      "versions": [
+        0,
+        2,
+        3,
+        6
+      ],
+      "summary": "Water marks the distance between ordinary life and another realm. A ferryman, a difficult crossing or a dangerous current prevents easy return. Some waters lead to an exceptional immortal rather than to all the dead. Compare the destination as carefully as the barrier.",
+      "motifs": [
+        "B:i26"
+      ]
+    },
+    {
+      "id": "judgement-of-the-dead",
+      "versions": [
+        0,
+        1,
+        4,
+        5
+      ],
+      "summary": "Death is followed by an examination of the life just lived. A heart is weighed, testimony is heard, or deeds appear in a record. The measures and outcomes vary, and not every culture imagines such a court. These stories make accountability extend beyond the reach of human judges.",
+      "motifs": [
+        "T:A187.1"
+      ]
+    },
+    {
+      "id": "blessed-otherworld",
+      "versions": [
+        0,
+        1,
+        3,
+        5
+      ],
+      "summary": "Beyond ordinary life lies a country of ease, abundance or undiminished joy. It may welcome certain dead, distant voyagers or exceptional heroes. A pleasant otherworld is not necessarily a universal reward for virtue. Entry, residence and return each have their own conditions.",
+      "motifs": [
+        "T:A692"
+      ]
+    },
+    {
+      "id": "descent-to-underworld",
+      "versions": [
+        0,
+        2,
+        3,
+        6
+      ],
+      "summary": "Someone living goes where the dead belong. Gates strip away power, hosts impose tests, and the return can demand a substitute or a hard-won secret. Journeys of gods, heroes and seekers differ in purpose. The shared crossing makes those differences especially revealing.",
+      "motifs": [
+        "B:h12"
+      ]
+    },
+    {
+      "id": "rescue-from-death",
+      "versions": [
+        1,
+        3,
+        6,
+        8
+      ],
+      "summary": "Love sends a traveller after someone who has died. Persuasion, music, endurance or careful work may win a second chance. Sometimes the rescue succeeds; sometimes a condition makes the loss final. The outcome is not universal, and the person who attempts the rescue is not always a spouse.",
+      "motifs": [
+        "B:h12",
+        "B:h13"
+      ]
+    },
+    {
+      "id": "dont-look-back",
+      "versions": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "summary": "Do not turn around; do not watch; do not expose what must remain hidden. A prohibition makes sight itself dangerous, and breaking it changes a relationship forever. These are neighbouring motifs, not identical rules. The source may forbid a backward glance, nakedness or witnessing a supernatural birth.",
+      "motifs": [
+        "B:h12"
+      ]
+    },
+    {
+      "id": "cheating-death",
+      "versions": [
+        1,
+        2,
+        4,
+        5
+      ],
+      "summary": "If death has a body, a ledger or a hidden life, perhaps it can be tricked. Heroes bind it, erase a name or seek the object that holds a foe's mortality. Success ranges from a brief reprieve to a lasting victory. Outsmarting death can also make trouble for everyone else.",
+      "motifs": [
+        "B:l15d",
+        "B:h52"
+      ]
+    },
+    {
+      "id": "child-set-adrift",
+      "summary": "A threatened child is placed in a vessel and entrusted to water. A stranger finds the child, whose later life overturns the apparent helplessness of that beginning. Royal legends and sacred narratives use the pattern differently. Compare the reason for the abandonment and the care that makes survival possible.",
+      "motifs": [
+        "T:S331"
+      ]
+    },
+    {
+      "id": "dragon-slayer",
+      "summary": "A hero meets a great serpent or monster that holds a person, treasure or community in danger. Strength alone is often insufficient: a trap, a helper or a precise wound decides the encounter. Dragon is a useful umbrella here, though the source creatures differ in shape and meaning.",
+      "motifs": [
+        "B:k38f"
+      ]
+    },
+    {
+      "id": "swan-maiden",
+      "versions": [
+        0,
+        2,
+        3,
+        5
+      ],
+      "summary": "A visitor from another world takes off a feathered covering and enters human life. Marriage may depend on keeping that covering, obeying a condition or accepting eventual departure. These tales invite comparison with other supernatural spouses, while the circumstances of consent and captivity vary sharply.",
+      "motifs": [
+        "B:e9i"
+      ]
+    },
+    {
+      "id": "quest-for-immortality",
+      "versions": [
+        0,
+        1,
+        3,
+        5
+      ],
+      "summary": "A long journey promises an answer to death. Beyond mountains, seas or darkness lies a survivor, an elixir or a fruit no ordinary person can reach. The seeker may return with wisdom, failure or a prize delivered too late. Seeking eternal life is not the same as receiving it.",
+      "motifs": [
+        "B:h52"
+      ]
+    },
+    {
+      "id": "swallowed-by-monster",
+      "versions": [
+        0,
+        1,
+        2,
+        5
+      ],
+      "summary": "The journey leads inside a living creature. Being swallowed can be a prison, a hiding place, a test or the beginning of an attack from within. Escape may rescue others as well as the hero. The belly becomes a strange temporary world with its own route out.",
+      "motifs": [
+        "B:l110"
+      ]
+    },
+    {
+      "id": "vessel-of-plenty",
+      "versions": [
+        0,
+        2,
+        3,
+        6
+      ],
+      "summary": "A jar, pot, cauldron or mill supplies more than its size allows. Abundance may answer hunger, sustain guests or become a prize worth fighting over. Each gift has its rules: who may eat, when the supply stops, and whether possession brings peace or conflict.",
+      "motifs": [
+        "T:D1652.1"
+      ]
+    },
+    {
+      "id": "drowned-city",
+      "versions": [
+        0,
+        1,
+        3,
+        5
+      ],
+      "summary": "A whole inhabited place disappears beneath water or out of ordinary sight. The cause may be divine judgement, the end of an age, failed defences or miraculous protection. These are stories and literary visions, not evidence that every named city lies waiting to be excavated.",
+      "motifs": [
+        "T:A1010"
+      ]
+    },
+    {
+      "id": "end-of-the-world",
+      "versions": [
+        0,
+        2,
+        4,
+        5
+      ],
+      "summary": "Even a world can die. Fire, water, monsters or a last battle undo the order that creation established. Some accounts expect another beginning; others focus on the catastrophe itself. The scale is cosmic, but the stories keep asking recognisable questions about courage, loss and what deserves to survive.",
+      "motifs": [
+        "B:c36",
+        "B:c2"
+      ]
+    },
+    {
+      "id": "world-reborn",
+      "versions": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "summary": "After destruction, the earth may rise again or life return in a changed form. Renewal can mean a restored creation, a new moral order or another turn of a cosmic cycle. Compare who survives and whether death remains. Ending with a beginning leaves the notebook open to more stories.",
+      "motifs": [
+        "T:A1006"
+      ]
+    }
+  ]
+}
