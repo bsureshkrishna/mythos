@@ -66,7 +66,8 @@ Open `index.html` directly, or serve this directory:
     python -m http.server 8000
 
 Then open http://localhost:8000. It can also be served from GitHub Pages as-is.
-StPageFlip 2.0.7 (MIT) and Fuse.js 7.1.0 (Apache-2.0) are bundled in `vendor/`, with their licences. Reading, page turns
+StPageFlip 2.0.7 (MIT) and Fuse.js 7.1.0 (Apache-2.0) are bundled in `vendor/`, with their licences; StPageFlip carries
+two small fixes, noted at the top of its file. Reading, page turns
 and search work offline. Google Fonts is optional and falls back to system fonts; external reading links
 need a connection.
 
